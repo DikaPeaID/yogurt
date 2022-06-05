@@ -7,4 +7,4 @@ this thing only does 2 stuff
 
 
 # preview
-<img>https://raw.githubusercontent.com/DikaPeaID/yogurt/master/assets/preview.png
+<img>[https://github.com/DikaPeaID/yogurt/raw/master/assets/preview.png](https://raw.githubusercontent.com/DikaPeaID/yogurt/master/assets/preview.png)
