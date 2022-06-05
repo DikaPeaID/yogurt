@@ -7,4 +7,6 @@ this thing only does 2 stuff
 
 
 # preview
-<img-src=https://raw.githubusercontent.com/DikaPeaID/yogurt/master/assets/preview.png>
+<p align="left">
+<img src=https://raw.githubusercontent.com/DikaPeaID/yogurt/master/assets/preview.png>
+<p>
